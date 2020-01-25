@@ -1,5 +1,7 @@
 This is a profile displaying my career portfolio 
 a bootstrap themed template was use to display the formatting 
+git hub path https://github.com/CynthiaHigley/portfolio
+https://cynthiahigley.github.io/portfolio/
 
 screen shot is in the img folder "portfolioScreenShot.png" 
 
